@@ -27,7 +27,7 @@ In this assignment you will practice putting together a simple image classificat
 <a name = "Tutorial"></a>
 ## 3.Tutorial to start (如何安装和开始) 
 ### How to set up Local Development
-___Download___. Starter code containing jupyter notebooks can be downloaded [here](https://cs231n.github.io/assignments/2020/assignment1_jupyter.zip).  ()
+___Download___. Starter code containing jupyter notebooks can be downloaded [here](https://cs231n.github.io/assignments/2020/assignment1_jupyter.zip).       
 ___Install Packages___. Once you have the starter code, activate your environment (the one you installed in the Software Setup page) and run (运行脚本安装运行环境,强烈推荐[此教程方法](https://denrydu.github.io/content.html?id=3))
 ```
 pip install -r requirements.txt.
